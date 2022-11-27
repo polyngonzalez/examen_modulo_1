@@ -5,7 +5,7 @@ body {
 /* Navbar y Footer*/
 
 .nav-color-fondo {
-    background-image: url(.../img/3_banner_largo.png);
+    background-image: url(assets/img/3_banner_largo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
