@@ -1,11 +1,14 @@
 body {
     font-family: 'Mulish', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Navbar y Footer*/
 
 .nav-color-fondo {
-    background-image: url(.../img/banner_largo.png);
+    background-image: url(https://images.unsplash.com/photo-1490750967868-88aa4486c946?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -34,7 +37,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-    background-image: url(".../img/background.jpg");
+    background-image: url(https://images.unsplash.com/photo-1422205512921-12dac7b3b603?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
@@ -74,7 +77,7 @@ body {
 /* Mis Trabajos Section */
 
 .trabajo-color-fondo{
-    background-color: #90A5D2;
+    background-color: #f5f8fd;
 }
 
 #footer span {
