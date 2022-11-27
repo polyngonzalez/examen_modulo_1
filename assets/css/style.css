@@ -5,7 +5,7 @@ body {
 /* Navbar y Footer*/
 
 .nav-color-fondo {
-    background-image: url(.../img/3_banner_largo.png);
+    background-image: url(.../img/banner_largo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -34,7 +34,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-    background-image: url(".../img/1_background.jpg");
+    background-image: url(".../img/background.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
