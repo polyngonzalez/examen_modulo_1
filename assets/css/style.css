@@ -1,0 +1,87 @@
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+/* Navbar y Footer*/
+
+.nav-color-fondo {
+    background-image: url(/assets/img/3_banner_largo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Navbar */
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #FF5938;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: #FF5938;
+}
+
+.dropdown-item{
+    color: #261F44;
+}
+
+
+/* Hero Section */
+
+#Hero-Section {
+    background-image: url("../img/1_background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    width:100%;
+    
+    
+}
+
+#Hero-Section img {
+    margin-top: 80px;
+    width: 15em;
+    border: 2px solid #90A5D2;
+
+}
+
+#Hero-Section p{
+    font-size: 25px;
+    font-family:'Mulish', sans-serif;
+    font-weight:300;
+}
+#Hero-Section h5{
+    font-size: 50px;
+    font-family:'Mulish', sans-serif;
+    font-weight:500;
+}
+
+/* acerca de mi section*/
+#Acerca-de-mi {
+    font-family:'Mulish', sans-serif;
+   
+}
+.te-cuento-color-fondo{
+    background-color: #EAADC1;
+    
+}
+
+/* Mis Trabajos Section */
+
+.trabajo-color-fondo{
+    background-color: #90A5D2;
+}
+
+#footer span {
+    color:#c31ecc;
+    text-align: center;
+
+}
+
+
+
